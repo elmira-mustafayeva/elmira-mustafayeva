@@ -1,16 +1,26 @@
-## Hi there 👋
+### elmira-mustafayeva
 
-<!--
-**elmira-mustafayeva/elmira-mustafayeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi👋 I'm Elmira Mustafayeva!
 
-Here are some ideas to get you started:
+## **Full Stack (MERN) Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Do
+### I am dedicated to building robust and scalable web applications using the MERN stack. My workflow focuses on writing clean, maintainable code and designing modular, clear architectures. I develop both front-end and back-end features, create RESTful APIs, and ensure efficient data exchange between the server and client.
+---
+
+## Tech Stack
+
+#### **Languages & Frameworks**
+- JavaScript • TypeScript • Python
+- React • Node.js (Express) • MongoDB
+
+#### **Additional Tools & Practices**
+- Git & GitHub • Swagger • Postman
+- Dependency Injection • Middleware
+- Oracle SQL • Power BI
+- Word • Excel
+
+---
+## Let's Connect
