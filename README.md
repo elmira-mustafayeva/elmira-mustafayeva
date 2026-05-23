@@ -1,5 +1,3 @@
-### elmira-mustafayeva
-
 # Hi👋 I'm Elmira Mustafayeva!
 
 ## **Full Stack (MERN) Developer**
