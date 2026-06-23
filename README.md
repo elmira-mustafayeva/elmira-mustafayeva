@@ -1,4 +1,4 @@
-# Hi👋 I'm Elmira Mustafayeva!
+# I'm Elmira Mustafayeva!
 
 ## **Full Stack (MERN) Developer**
 
